@@ -2,6 +2,21 @@
   font-family: arial, sans-serif;
   margin: 0;
 }
+
+.red-link {
+  background-color: red;
+  color: white; /* Optional: changes text color to improve visibility */
+}
+.blue-link {
+  background-color: blue;
+  color: white; /* Optional: changes text color to improve visibility */
+}
+.home-link {
+  background-color: white;
+  color: black; /* Optional: changes text color to improve visibility */
+}
+
+/* this below needs to be changed*/
 body,
 body > div {
   height: 100vh;
